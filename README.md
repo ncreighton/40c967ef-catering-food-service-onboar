@@ -1,2 +1,28 @@
-# 40c967ef-catering-food-service-onboar
-Every catering professionals needs this — most just don't know it yet.  Multi-server support with per-server configuration and permission levels. Easy setup: invite → configure → active in under 10 minutes.  ## What's Included  - Catering &amp; Food Service Onboarding And Welcome Flow — fully configured and ready to use - Slash command interface for al
+# Catering & Food Service Onboarding and Welcome Flow Discord Bot
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/9B6dR926HgaU4pq7jCcZF0d)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/9B6dR926HgaU4pq7jCcZF0d)
+
